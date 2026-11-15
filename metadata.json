@@ -1,0 +1,6 @@
+{
+  "name": "Anka Killapi",
+  "description": "An Andean lunar adventure in English, Spanish, and Quechua following a young Peruvian traveler and his eagle companion across the moon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
